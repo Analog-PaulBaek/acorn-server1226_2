@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping("/data")
     public String hi(){
-        return "hi DATA ^^ 코드수정";
+        return "hi DATA ^^ 코드수정 !!!";
     }
 }
